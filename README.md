@@ -1,11 +1,14 @@
 # A-Frame Project
 
-**[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
+This is my respository for the AFrame project.
 
-**[Sponsor us to help support A-Frame development and its community](https://github.com/sponsors/dmarcos)**
+My project was based on a cartoon tiny house reference image.
 
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
+I used a forest evvironment pack from the AFrame.io site.
+I created 3D models and textures to construct the house.
+I set the camera angle to view the house the same as the image.
 
-Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
+In the case the textures don't load, I have a backup site where the house model can viewed properly:
 
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
+(GO HERE)
+https://marsh-roan-sceptre.glitch.me/
