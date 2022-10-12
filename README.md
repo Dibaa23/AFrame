@@ -12,3 +12,6 @@ In the case the textures don't load, I have a backup site where the house model 
 
 (GO HERE)
 https://marsh-roan-sceptre.glitch.me/
+
+(OR HERE)
+https://dibaa23.github.io/AFrame/
